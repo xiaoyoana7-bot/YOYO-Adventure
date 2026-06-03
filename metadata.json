@@ -1,0 +1,6 @@
+{
+  "name": "LEVEL 8",
+  "description": "2D横版像素风叙事冒险游戏：一个字节校招生的八年升级之旅（Yoyo @ Spark Creative Contest 2026）",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
